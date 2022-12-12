@@ -1,0 +1,16 @@
+//Procedimento para achar Máximos e Minimos
+
+1º Acho a f'(x)
+
+2º f'(x)=0 //acha os pontos estacionários/pontos críticos->Xe
+
+3º //Colocar ponto estácioário em cima de uma reta
+//pega um valor anterior e um valor posterior ao ponto estacionário
+
+4º f'(x)> Função crescente
+    f'(x)<0 Função decrescente
+
+5º Calcule a f(xe)
+    
+6º gráfico
+
