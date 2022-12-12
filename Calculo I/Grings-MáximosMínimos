@@ -35,9 +35,9 @@ Qualquer número que venha antes e qualquer depois do ponto de inflexão.
 Assim, os valores escolhidos devem ser subtituir x na derivada 
 segunda um de cada vez.
 
-OBS.: Se o valor for maior do que zero, concavidade para cima.
+OBS.: Se o valor for maior do que zero (positivo), concavidade para cima.
 
-Se o valor for menor do que zero, concavidade voltada para baixo.
+Se o valor for menor do que zero(negativo), concavidade voltada para baixo.
 
 
 
