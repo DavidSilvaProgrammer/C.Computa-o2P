@@ -11,7 +11,8 @@
     f'(x)<0 Função decrescente
    //consegue valores no gráfico após, antes e no meio dos máximos
    e mínimos, e depois subtituir esse valores no x da equação da primeira
-   derivada para saber se o valor será positivo ou negativo.
+   derivada para saber se o valor será positivo ou negativo. Se o resultado
+   for positivo, a curva/reta é crescente. Se negativo, é descrescente.
 
 5º Calcule a f(xe)
     
