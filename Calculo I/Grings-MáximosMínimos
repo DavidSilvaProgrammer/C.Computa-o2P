@@ -26,3 +26,24 @@ Ponto de inflexão é quando a concavidade da curva muda. Exemplo, está com a
 concavidade voltada para baixo e passar a ser para cima.
 
 1º Encontrar a derivada segunda
+
+2º Iguala a zero e acha as raízes.
+
+3º Feito isso, faz uma linha reta e coloca o ponto de inflexão bem no meio.
+Pega um valor anterior e posterior. 
+Qualquer número que venha antes e qualquer depois do ponto de inflexão.
+Assim, os valores escolhidos devem ser subtituir x na derivada 
+segunda um de cada vez.
+
+OBS.: Se o valor for maior do que zero, concavidade para cima.
+
+Se o valor for menor do que zero, concavidade voltada para baixo.
+
+
+
+
+
+
+
+
+
