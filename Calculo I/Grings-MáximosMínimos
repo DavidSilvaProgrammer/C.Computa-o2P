@@ -14,7 +14,7 @@
    derivada para saber se o valor será positivo ou negativo. Se o resultado
    for positivo, a curva/reta é crescente. Se negativo, é descrescente.
    Por meio do gráfico, visualiza fácil o ponto de máximo e mínimo. Após tudo isso,
-   substitui o x na função, sem ser a derivada.
+   substitui esses supostos máximos e mínimos no inicio da função, sem ser a derivada.
 
 5º Calcule a f(xe)
     
